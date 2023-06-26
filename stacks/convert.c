@@ -4,6 +4,7 @@
 int main (int argc, char *argv[]){
     int valor, resto;
     struct Pilha p;
+    create(&p);
 
     printf("digite um valor");
     scanf("%d", &valor);
@@ -19,5 +20,6 @@ int main (int argc, char *argv[]){
         prinf("%d", resto);
     }
 
+    return 0;
 
 }

@@ -15,10 +15,10 @@ public class Conversor {
 
         while(!p.isEmpty()){
             resto = p.pop();
-            System.out.print(resto)
+            System.out.println(resto)
         }
 
-        System.out.println("Fim do programa");
+        System.out.println("Fim do programa"); 
     }
 }
 
