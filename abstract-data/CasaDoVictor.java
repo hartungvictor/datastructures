@@ -1,4 +1,4 @@
-public class CasaDoIsidro{
+public class CasaDoVictor{
     public static void main(String args[]){
         Televisao t1, t2;
         
